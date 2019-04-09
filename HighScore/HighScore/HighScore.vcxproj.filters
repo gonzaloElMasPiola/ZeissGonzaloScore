@@ -18,10 +18,16 @@
     <ClInclude Include="Score.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+    <ClInclude Include="PlayerScore.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Score.cpp">
       <Filter>Archivos de recursos</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerScore.cpp">
+      <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
