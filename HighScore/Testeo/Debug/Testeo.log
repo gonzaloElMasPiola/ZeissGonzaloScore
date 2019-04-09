@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\administrador\desktop\highscore\highscore\testeo\main.cpp(7): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Testeo.vcxproj -> C:\Users\Administrador\Desktop\HighScore\HighScore\Debug\Testeo.exe
