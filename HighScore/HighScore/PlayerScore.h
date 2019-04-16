@@ -8,14 +8,17 @@ using namespace std;
 class PlayerScore
 {
 public:
-	PlayerScore();
+	PlayerScore(string name2, int id2, float score2);
 	float getScore();
-	void setScore(int a);
+	void setScore(float score2);
 	string getName();
-	void setName(string name);
+	void setName(string name2);
+	int getId();
 	~PlayerScore();
 private:
-	float a, b;
+	float score;
+	int id;
+	string name;
 };
 #endif
 
