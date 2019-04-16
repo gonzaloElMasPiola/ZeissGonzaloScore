@@ -20,7 +20,7 @@ float ScoreMax(PlayerScore *play)
 	}
 	return aux;
 }
-int ScoreMaxID(PlayerScore *play)
+int ScoreMaxId(PlayerScore *play)
 {
 	int aux = 0;
 	for (int a = 0; a < sizeof(play) / sizeof(*play); a++)
