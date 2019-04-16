@@ -1,1 +1,2 @@
-﻿LINK : fatal error LNK1104: no se puede abrir el archivo 'HighScore.lib'
+﻿  main.cpp
+  Testeo.vcxproj -> C:\Users\Administrador\Desktop\ZeissGonzaloScore\HighScore\Debug\Testeo.exe

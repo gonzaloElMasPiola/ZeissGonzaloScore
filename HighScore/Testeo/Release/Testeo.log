@@ -1,2 +1,8 @@
 ﻿  main.cpp
-LINK : fatal error LNK1181: no se puede abrir el archivo de entrada 'HighScore.lib'
+c:\users\administrador\desktop\zeissgonzaloscore\highscore\testeo\main.cpp(17): warning C4154: eliminación de una expresión de matriz; suministrada una conversión a puntero
+  Generando código
+  0 of 76 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Testeo.vcxproj -> C:\Users\Administrador\Desktop\ZeissGonzaloScore\HighScore\Release\Testeo.exe
